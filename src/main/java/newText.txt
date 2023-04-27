@@ -3,3 +3,5 @@ biraz yazı olsun
 maksat değişiklik olsun
 
 buraya biraz daha değişiklik yapalım bakalım ne olacak
+
+bu yazı gitmesin artık
